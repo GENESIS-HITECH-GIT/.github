@@ -7,7 +7,7 @@
   </p>
 
   [![Website](https://img.shields.io/badge/Website-Genesis%20Hitech-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://genesishitech.com.br)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/sua-empresa)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/genesis-hitech/)
   [![Email](https://img.shields.io/badge/Email-Fale%20Conosco-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genesishitechholdings@gmail.com)
 
   <br>
